@@ -1,7 +1,7 @@
 {
-  "name": "yx-ui",
+  "name": "yxsamsara-ui",
   "version": "0.1.0",
-  "main": "yx-ui.umd.min.js",
+  "main": "yxsamsara-ui.umd.min.js",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
