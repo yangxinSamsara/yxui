@@ -1,7 +1,7 @@
 {
-  "name": "yxui",
+  "name": "yx-ui",
   "version": "0.1.0",
-  "main": "yxui.umd.min.js",
+  "main": "yx-ui.umd.min.js",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
